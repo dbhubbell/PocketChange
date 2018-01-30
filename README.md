@@ -1,3 +1,5 @@
+## PocketChange
+
 Our hero, Quincer, has been moved to the Galactic Customs Service. Now, the Galactic Customs Service is really a bunch of crooks. It is their practice to appropriate (that means take) 50% of all the money from people coming through their customs inspections stations.
 
 Currently, the inspectors ask people to empty all their pockets. The inspector then sums the value of all coins, divides by 2 and keeps that amount. This should be easy, except some of the inspectors have trouble with math. It takes them a long time to sum the values of coins.
